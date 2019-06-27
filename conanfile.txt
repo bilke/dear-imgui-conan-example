@@ -8,6 +8,6 @@ cmake_multi
 
 [imports]
 ./misc/bindings, imgui_impl_glfw.cpp -> ../bindings
-./misc/bindings, imgui_impl_opengl3.cpp -> ../bindings
+./misc/bindings, imgui_impl_opengl2.cpp -> ../bindings
 ./misc/bindings, imgui_impl_glfw.h -> ../bindings
-./misc/bindings, imgui_impl_opengl3.h -> ../bindings
+./misc/bindings, imgui_impl_opengl2.h -> ../bindings
